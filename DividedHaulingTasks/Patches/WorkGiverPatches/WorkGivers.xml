@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationReplace">
+	  <xpath>*/WorkGiverDef[defName = "UnloadCarriers"]/workType</xpath>
+	  <value>
+		<workType>Loading</workType>
+	  </value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+	  <xpath>*/WorkGiverDef[defName = "LoadTransporters"]/workType</xpath>
+	  <value>
+		<workType>Loading</workType>
+	  </value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+	  <xpath>*/WorkGiverDef[defName = "HelpGatheringItemsForCaravan"]/workType</xpath>
+	  <value>
+		<workType>Loading</workType>
+	  </value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+	  <xpath>*/WorkGiverDef[defName = "BuryCorpses"]/workType</xpath>
+	  <value>
+		<workType>Mortician</workType>
+	  </value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+	  <xpath>*/WorkGiverDef[defName = "DoBillsCremate"]/workType</xpath>
+	  <value>
+		<workType>Mortician</workType>
+	  </value>
+	</Operation>
+	
+</Patch>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<WorkTypeDefs>
+
+  <WorkTypeDef>
+    <defName>Loading</defName>
+    <labelShort>Load</labelShort>
+    <pawnLabel>Loader</pawnLabel>
+    <gerundLabel>Loading</gerundLabel>
+    <description>Aid caravans and other transports with loading and unloading.</description>
+    <verb>Load</verb>
+    <naturalPriority>320</naturalPriority>
+    <alwaysStartActive>true</alwaysStartActive>
+    <requireCapableColonist>true</requireCapableColonist>
+    <workTags>
+      <li>ManualDumb</li>
+      <li>Hauling</li>
+    </workTags>
+  </WorkTypeDef>
+
+  <WorkTypeDef>
+    <defName>Mortician</defName>
+    <labelShort>Mortician</labelShort>
+    <pawnLabel>Mortician</pawnLabel>
+    <gerundLabel>Mortifying</gerundLabel>
+    <description>Carry out burials and cremations for the dead.</description>
+    <verb>Mortify</verb>
+    <naturalPriority>310</naturalPriority>
+    <alwaysStartActive>true</alwaysStartActive>
+    <requireCapableColonist>true</requireCapableColonist>
+    <workTags>
+    </workTags>
+  </WorkTypeDef>
+
+</WorkTypeDefs>
