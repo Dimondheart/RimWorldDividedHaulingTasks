@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <Loading.labelShort>적재</Loading.labelShort>
+    <Loading.pawnLabel>적재자</Loading.pawnLabel>
+    <Loading.gerundLabel>적재</Loading.gerundLabel>
+    <Loading.description>Aid caravans and other transports with loading and unloading.</Loading.description>
+    <Loading.verb>적재</Loading.verb>
+
+    <Mortician.labelShort>화장</Mortician.labelShort>
+    <Mortician.pawnLabel>화장자</Mortician.pawnLabel>
+    <Mortician.gerundLabel>화장</Mortician.gerundLabel>
+    <Mortician.description>Carry out burials and cremations for the dead.</Mortician.description>
+    <Mortician.verb>화장</Mortician.verb>
+
+</LanguageData>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>Divided Hauling Tasks</name>
+  <name>[A17] Divided Hauling Tasks</name>
   <author>Bryan Bettis</author>
   <description>Divides Hauling tasks into 3 separate categories: Loading (loading/unloading caravans and other transports), Mortician (burial and cremation), and Hauling (everything else.)</description>
   <targetVersion>0.17.1557</targetVersion>

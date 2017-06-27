@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <Loading.labelShort>Load</Loading.labelShort>
+    <Loading.pawnLabel>Loader</Loading.pawnLabel>
+    <Loading.gerundLabel>Loading</Loading.gerundLabel>
+    <Loading.description>Aid caravans and other transports with loading and unloading.</Loading.description>
+    <Loading.verb>Load</Loading.verb>
+
+    <Mortician.labelShort>Mortician</Mortician.labelShort>
+    <Mortician.pawnLabel>Mortician</Mortician.pawnLabel>
+    <Mortician.gerundLabel>Mortifying</Mortician.gerundLabel>
+    <Mortician.description>Carry out burials and cremations for the dead.</Mortician.description>
+    <Mortician.verb>Mortify</Mortician.verb>
+
+</LanguageData>
